@@ -32,3 +32,5 @@ CONCLUSION:
 - Call to action or thought-provoking final statement
 
 Ensure each outline maintains a balance between credible information and engaging controversy, making the piece both informative and intriguing to potential readers.
+
+If you're given an existing outline and an evaluation of it for improvement then follow the details in the evaluation and revise the outline according to those details while still keeping to the instructions I've just given you.
