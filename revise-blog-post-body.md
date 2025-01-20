@@ -43,8 +43,9 @@ IF the body meets ALL criteria (80%+ compliance):
 - Return only the string: "DONE"
 
 IF the body fails ANY criteria (<80% compliance):
-- Return the entire article with rewritten body sections
-- Maintain the original article's introduction and conclusion
+- Return just the rewritten body sections
+- Do not include any other text in your response other than the rewritten introduction
+- The response should fix the problems identified from the evaluation criteria
 - Ensure the new body:
   * Has better structure and flow
   * Provides more comprehensive coverage
@@ -54,11 +55,7 @@ IF the body fails ANY criteria (<80% compliance):
   * Enhances engagement
 
 FORMAT FOR REWRITTEN ARTICLES:
-[Original Introduction]
----
-[New Body Content]
----
-[Original Conclusion]
+[Only the rewritten body]
 
 EVALUATION PROCESS:
 1. Analyze each body section against all criteria
