@@ -55,6 +55,7 @@ IF the body fails ANY criteria (<80% compliance):
   * Enhances engagement
 
 FORMAT FOR REWRITTEN ARTICLES:
+
 [Only the rewritten body]
 
 EVALUATION PROCESS:
