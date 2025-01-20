@@ -40,6 +40,7 @@ IF the introduction fails ANY criteria (<80% compliance):
   * Transitions smoothly to main content
 
 FORMAT FOR REWRITTEN ARTICLES:
+
 [Only the new Introduction]
 
 
