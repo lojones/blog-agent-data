@@ -40,9 +40,8 @@ IF the introduction fails ANY criteria (<80% compliance):
   * Transitions smoothly to main content
 
 FORMAT FOR REWRITTEN ARTICLES:
-[New Introduction]
----
-[Original article body and conclusion]
+[Only the new Introduction]
+
 
 EVALUATION PROCESS:
 1. Analyze the introduction against all criteria
