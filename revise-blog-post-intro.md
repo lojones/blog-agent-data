@@ -28,8 +28,9 @@ IF the introduction meets ALL criteria (80%+ compliance):
 - Return only the string: "DONE"
 
 IF the introduction fails ANY criteria (<80% compliance):
-- Return the entire article with a rewritten introduction
-- Maintain the original article's main body and conclusion
+- Return the just the rewritten introduction
+- Do not include any other text in your response other than the rewritten introduction
+- The response should fix the problems identified from the evaluation criteria
 - Ensure the new introduction:
   * Starts with a stronger hook
   * Clearly states value proposition
@@ -47,6 +48,5 @@ EVALUATION PROCESS:
 1. Analyze the introduction against all criteria
 2. Calculate compliance percentage
 3. Make instant decision: "DONE" vs. rewrite
-4. If rewriting, ensure seamless integration with existing content
 
 Remember: Your goal is to ensure introductions effectively engage readers while setting up the article's content in a clear, compelling manner.
