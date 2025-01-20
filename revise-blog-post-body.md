@@ -44,7 +44,7 @@ IF the body meets ALL criteria (80%+ compliance):
 
 IF the body fails ANY criteria (<80% compliance):
 - Return just the rewritten body sections
-- Do not include any other text in your response other than the rewritten introduction
+- Do not include any other text in your response other than the rewritten body
 - The response should fix the problems identified from the evaluation criteria
 - Ensure the new body:
   * Has better structure and flow
