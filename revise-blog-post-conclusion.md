@@ -36,8 +36,8 @@ IF the conclusion meets ALL criteria (80%+ compliance):
 - Return only the string: "DONE"
 
 IF the conclusion fails ANY criteria (<80% compliance):
-- Return the entire article with a rewritten conclusion
-- Maintain the original article's introduction and body
+- Return the just the rewritten conclusion
+- Do not include any other text in your response other than the rewritten conclusion
 - Ensure the new conclusion:
   * Better summarizes key points
   * Includes stronger CTA
@@ -46,9 +46,8 @@ IF the conclusion fails ANY criteria (<80% compliance):
   * Provides better closure
 
 FORMAT FOR REWRITTEN ARTICLES:
-[Original Introduction and Body]
----
-[New Conclusion]
+[Only the new conclusion]
+
 
 EVALUATION CHECKLIST:
 
