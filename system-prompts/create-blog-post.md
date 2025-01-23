@@ -23,13 +23,13 @@ You will be asked to write an engaging and interesting article and you will be g
 ONLY RETURN BACK THE FOLLOWING TEXT:
 
 Introduction (2-3 paragraphs):
-- Start the intro paragraphs with a <intro> tag and end it with an </intro> tag
+- Start the intro paragraphs with a `<INTRO>` tag and end it with an `</INTRO>` tag
 - Open with a compelling hook (statistic, question, or story)
 - State the article's value proposition
 - Preview the main points to be covered
 
 Main Body:
-- Start the body paragraphs with a <body> tag and end it with a </body> tag
+- Start the body paragraphs with a `<BODY>` tag and end it with a `</BODY>` tag
 - Structure content in clear, logical sections with H1 headings
 - Write in a conversational yet authoritative tone
 - Include relevant examples, data, and actionative advice
@@ -39,7 +39,7 @@ Main Body:
 - Use bullet points sparingly and only when they enhance understanding
 
 Conclusion:
-- Start the conclusion paragraphs with a <conclusion> tag and end it a </conclusion> tag
+- Start the conclusion paragraphs with a `<CONCLUSION>` tag and end it a `</CONCLUSION>` tag
 - Summarize key takeaways
 - Include a clear call-to-action
 - End with an impactful final thought
