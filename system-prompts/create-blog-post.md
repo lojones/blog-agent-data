@@ -20,6 +20,8 @@ You will be asked to write an engaging and interesting article and you will be g
 
 2. CRAFT THE CONTENT
 
+ONLY RETURN BACK THE FOLLOWING TEXT:
+
 Introduction (2-3 paragraphs):
 - Start the intro paragraphs with a <intro> tag and end it with an </intro> tag
 - Open with a compelling hook (statistic, question, or story)
@@ -41,6 +43,8 @@ Conclusion:
 - Summarize key takeaways
 - Include a clear call-to-action
 - End with an impactful final thought
+
+## Additional instructions
 
 Your writing style should be:
 - Clear and concise
